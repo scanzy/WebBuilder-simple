@@ -1,0 +1,4 @@
+ #this is a comment 
+
+ data/file1.txt > output/file1processed.txt
+
